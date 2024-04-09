@@ -1,8 +1,8 @@
 """
 File: Steeplechase.py
-Name: Popcat
+Name: Chris
 ---------------------------------
-
+Karel will jump over eleven hurdles
 """
 
 from karel.stanfordkarel import *
